@@ -6,6 +6,6 @@
   
 - 💞️ **I’m looking to collaborate on:** Projects that push the boundaries of computer vision, real-time object detection, and AI-driven solutions. I'm eager to work on innovative applications that leverage AI for societal impact, especially in the fields of smart cities, healthcare, and intelligent transportation systems.
   
-- 📫 **How to reach me:** You can connect with me via [LinkedIn](https://www.linkedin.com/) or drop me an email at [your.email@example.com](mailto:greetmeasap@gmail.com). I'm always open to discussing new ideas and collaboration opportunities.
+- 📫 **How to reach me:** You can connect with me via [LinkedIn](https://www.linkedin.com/) or drop me an email at [Email](mailto:greetmeasap@gmail.com). I'm always open to discussing new ideas and collaboration opportunities.
   
 - ⚡ **Fun fact:** When I'm not building AI models or working on computer vision projects, I enjoy exploring the latest advancements in quantum computing and occasionally dabbling in video game AI development.
