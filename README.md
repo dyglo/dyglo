@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @dyglo
+# 👋 Hi, I’m @Tafar
 
 👨‍💻 Software Developer | AI/ML Practitioner | Innovator
 
