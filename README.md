@@ -4,8 +4,19 @@
 
 Specialize in building intelligent systems, interactive web applications, and AI-powered solutions that bridge the gap between cutting-edge technology and real-world impact.
 
-💡 Visionary Technologist: I design and implement scalable solutions that integrate modern tech stacks with AI/ML capabilities, such as multi-agent systems, intelligent search tools, and interactive assistants.
-  
-- 📫 **How to reach me:** You can connect with me via [LinkedIn](https://www.linkedin.com/) or drop me an email at [Email](mailto:greetmeasap@gmail.com). I'm always open to discussing new ideas and collaboration opportunities.
-  
-I’m always open to collaborations, innovative ideas, and opportunities to learn and grow. Feel free to reach out or explore my projects here!
+## Skills and Technologies
+- **Languages:** Python, TypeScript, JavaScript, C++
+- **Frameworks:** React, Node.js, Next.js
+- **Tools:** Git, Docker, Kubernetes
+
+## Projects
+- [Glodev](https://github.com/dyglo/Glodev): A full-stack web for my portfolio.
+- [NextQ](https://github.com/dyglo/NextQ): is an Intelligent search app, powered by multiple APIs, from summarising users query to provide real up-to-date accurate information. See it as Perplexity ai.
+
+## Achievements
+- GitHub Achievements: YoLo, Galaxy Brain, Quickdraw
+
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/tafar-mabi)
+- [Email](mailto:tafartechlabs@gmail.com)
+- [Personal Website](https://glodev.vercel.app)
