@@ -11,10 +11,10 @@ Specialize in building intelligent systems, interactive web applications, and AI
 
 ## Projects
 - [Glodev](https://github.com/dyglo/Glodev): A full-stack web for my portfolio.
-- [NextQ](https://github.com/dyglo/NextQ): is an Intelligent search app, powered by multiple APIs, from summarising users query to provide real up-to-date accurate information. See it as Perplexity ai.
+- [NextQ](https://github.com/dyglo/NextQ): is an Intelligent search app, powered by multiple APIs, from summarising users query to provide real-time information. See it as Perplexity ai.
 
 ## Achievements
-- GitHub Achievements: YoLo, Galaxy Brain, Quickdraw
+- GitHub Achievements: YoLo, Galaxy Brain and more...
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/tafar-mabi)
