@@ -1,17 +1,27 @@
-<h1 align="center">👋 Hi, I'm Tafar</h1>
+<!-- 🎨 Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="250" alt="AI Engineer Banner">
+</p>
+
+<h1 align="center">👋 Hi, I'm Tafar (aka dyglo)</h1>
 <h3 align="center">AI Engineer | AIOps Practitioner | Machine Learning Innovator</h3>
 
 ---
 
-### 🚀 About Me
-- 👨‍💻 Building **AI-powered solutions**, scalable **automation systems**, and **intelligent platforms** for real-world impact.
-- 💡 Specializing in **AI Agents**, **AIOps**, and **cutting-edge ML pipelines**.
-- 🌱 Exploring **Multi-Agent Orchestration**, **LangChain**, **Kubernetes AI deployments**.
-- 🔗 [Portfolio](https://tafarmabi.vercel.app)
+<details>
+<summary>🚀 About Me</summary>
+<br>
+- 👨‍💻 Building **AI-powered solutions**, scalable **automation systems**, and **intelligent platforms** for real-world impact.<br>
+- 💡 Specializing in **AI Agents**, **AIOps**, and **cutting-edge ML pipelines**.<br>
+- 🌱 Exploring **Multi-Agent Orchestration**, **LangChain**, **Kubernetes AI deployments**.<br>
+- 🔗 <a href="https://tafarmabi.vercel.app">Portfolio</a>
+</details>
 
 ---
 
-### 🛠️ Skills & Technologies
+<details>
+<summary>🛠️ Skills & Technologies</summary>
+<br>
 
 #### Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=python,ts,js,react,nodejs,nextjs,cplusplus&theme=dark&perline=7)](https://skillicons.dev)
@@ -19,27 +29,42 @@
 #### DevOps & Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,linux,vercel&theme=dark&perline=5)](https://skillicons.dev)
 
+</details>
+
 ---
 
-### 🏗️ Featured Projects
-- **[TafaAI](https://github.com/dyglo/tafaai.vercel.app)** – *An AI-powered multi-agent app (Perplexity + Grok4 style)*.
+<details>
+<summary>🏗️ Featured Projects</summary>
+<br>
+
+- **[TafaAI](https://github.com/dyglo/tafaai.vercel.app)** – *An AI-powered multi-agent app (Perplexity + Grok4 style)*.<br>
 - **Portfolio** – [Live Demo](https://tafarmabi.vercel.app)
 
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?dyglo&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?dyglo&theme=radical" alt="GitHub streak" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?dyglo&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
+</details>
 
 ---
 
-### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?dyglo&theme=radical&no-frame=true&margin-w=15)
+<details>
+<summary>📊 GitHub Analytics</summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dyglo&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=dyglo&theme=radical" alt="GitHub streak" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyglo&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+</details>
+
+---
+
+<details>
+<summary>🏆 Achievements</summary>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dyglo&theme=radical&no-frame=true&margin-w=15"/>
+</p>
+</details>
 
 ---
 
@@ -50,5 +75,4 @@
 ---
 
 ### 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Tafar&color=blue&style=for-the-badge)
-
+![Profile Views](https://komarev.com/ghpvc/?username=dyglo&color=blue&style=for-the-badge)
