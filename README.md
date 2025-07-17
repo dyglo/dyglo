@@ -150,17 +150,6 @@ graph TD
 
 ---
 
-## 💡 Latest Blog Posts & Insights
-
-<!-- BLOG-POST-LIST:START -->
-- 🤖 Building Production-Ready AI Agents with LangChain
-- 🚀 Scaling ML Models with Kubernetes: A Practical Guide  
-- 📊 Implementing AIOps: From Monitoring to Automation
-- 🔧 Multi-Agent Systems: Architecture and Best Practices
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -180,5 +169,5 @@ graph TD
 ---
 
 <div align="center">
-  <sub>Built by TM • Last updated: $(date +'%B %Y')</sub>
+  <sub>Built by TM</sub>
 </div>
