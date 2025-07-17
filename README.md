@@ -1,4 +1,4 @@
-# 🎯 Tafar (dyglo)
+# Tafar A.k.a (dyglo)
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="250" alt="AI Engineer Banner">
@@ -137,7 +137,7 @@ graph TD
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dyglo&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dyglo&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
 </div>
 
 ---
@@ -169,5 +169,4 @@ graph TD
 ---
 
 <div align="center">
-  <sub>Built by TM</sub>
-</div>
+  <sub>Built by Dyglo</div>
