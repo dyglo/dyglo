@@ -134,13 +134,6 @@ graph TD
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dyglo&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
-</div>
-
----
 
 ## 🏆 Achievements
 
