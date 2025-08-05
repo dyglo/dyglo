@@ -96,20 +96,6 @@ class AIEngineer:
 
 ---
 
-## 🏗️ Featured Projects
-
-<div align="center">
-  
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[TafaAI](https://github.com/dyglo/tafaai.vercel.app)** | Multi-agent AI platform with Perplexity-style interface | LangChain, Next.js, Python | 🚀 Live |
-| **AI Agent Orchestrator** | Kubernetes-native AI agent deployment system | K8s, Ray, FastAPI | 🔧 In Progress |
-| **AIOps Monitor** | Real-time ML model monitoring dashboard | Prometheus, Grafana, PyTorch | 📊 Planning |
-
-</div>
-
----
-
 ## 🎯 Current Focus Areas
 
 <div align="center">
