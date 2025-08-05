@@ -120,15 +120,6 @@ graph TD
 
 ---
 
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dyglo&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
