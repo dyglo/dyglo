@@ -12,35 +12,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafar-mabi)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tafartechlabs@gmail.com)
   
----
-
-## 🚀 About Me
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Tafar Mabi"
-        self.role = "AI Engineer & AIOps Practitioner"
-        self.current_focus = [
-            "Multi-Agent AI Systems",
-            "Kubernetes AI Deployments", 
-            "LangChain & CrewAI",
-            "Real-time ML Monitoring"
-        ]
-        self.expertise = {
-            "ai_agents": ["LangChain", "CrewAI", "AutoGen"],
-            "ml_ops": ["MLflow", "Kubeflow", "Ray Serve"],
-            "monitoring": ["Prometheus", "Grafana", "ELK Stack"],
-            "orchestration": ["Kubernetes", "Docker", "Airflow"]
-        }
-    
-    def current_projects(self):
-        return [
-            "Building multi-agent AI systems",
-            "Implementing AIOps pipelines",
-            "Scaling ML models with Kubernetes"
-        ]
-```
 
 ---
 
