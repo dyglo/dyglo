@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h2>🤖 AI Engineer | AIOps Practitioner | Machine Learning Innovator</h2>
+  <h2> AI Engineer | AIOps Practitioner | Machine Learning Innovator</h2>
   <p><em>Building the future of AI-driven automation systems</em></p>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tafarmabi.vercel.app)
@@ -42,19 +42,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dyglo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyglo&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyglo&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 ---
 
