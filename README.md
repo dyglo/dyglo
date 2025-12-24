@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **AI & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,7 +45,7 @@
 
 ---
 
-## 🎯 Current Focus Areas
+## Current Focus Areas
 
 <div align="center">
   
@@ -69,7 +69,7 @@ graph TD
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
   <p>
