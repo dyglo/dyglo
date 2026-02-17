@@ -1,10 +1,6 @@
 # Tafar A.k.a (dyglo)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="250" alt="AI Engineer Banner">
-</div>
-
-<div align="center">
   <h2> AI Engineer | AIOps Practitioner | Machine Learning Innovator</h2>
   <p><em>Building the future of AI-driven automation systems</em></p>
   
