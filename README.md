@@ -1,7 +1,5 @@
 # Tafar A.k.a (dyglo)
 
-<div align="center">
-  <h2> AI Engineer | AIOps Practitioner | Machine Learning Innovator</h2>
   <p><em>Building the future of AI-driven automation systems</em></p>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tafarmabi.vercel.app)
